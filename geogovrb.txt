@@ -1,0 +1,81 @@
+{
+"2":
+{
+"Request":"get",
+"Url":"http://geo.govrb.ru/ArcGIS/rest/services/dvs_atlas/MapServer/2/query",
+"Payloads":{"f":"json","returnGeometry":"true","spatialRel":"esriSpatialRelIntersects","geometry":"{'xmin':1000000.54458804,'ymin':3700000.372973837,'xmax':28897270.578516003,'ymax':9884866.406901802,'spatialReference':{'wkid':102100}}","geometryType":"esriGeometryEnvelope","inSR":"102100","outFields":"*","outSR":"102100"},
+"Data":{},
+"Headers":
+{
+"Host":"geo.govrb.ru",
+"Connection":"keep-alive",
+"Accept":"*/*",
+"X-Requested-With": "XMLHttpRequest",
+"Content-Type": "application/x-www-form-urlencoded",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+"Referer":"http://geo.govrb.ru/nacproject.html",
+"Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+"Cookie":"",
+"Accept-Encoding":"gzip, deflate"
+}
+},
+"4":
+{
+"Request":"get",
+"Url":"http://geo.govrb.ru/ArcGIS/rest/services/dvs_atlas/MapServer/4/query",
+"Payloads":{"f":"json","returnGeometry":"true","spatialRel":"esriSpatialRelIntersects","geometry":"{'xmin':11095912.9564067,'ymin':6444353.73841953,'xmax':12823381.9502367,'ymax':7626841.79777635,'spatialReference':{'wkid':102100}}","geometryType":"esriGeometryEnvelope","inSR":"102100","outFields":"*","outSR":"102100"},
+"Data":{},
+"Headers":
+{
+"Host":"geo.govrb.ru",
+"Connection":"keep-alive",
+"Accept":"*/*",
+"X-Requested-With": "XMLHttpRequest",
+"Content-Type": "application/x-www-form-urlencoded",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+"Referer":"http://geo.govrb.ru/nacproject.html",
+"Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+"Cookie":"",
+"Accept-Encoding":"gzip, deflate"
+}
+},
+"5":
+{
+"Request":"get",
+"Url":"http://geo.govrb.ru/ArcGIS/rest/services/dvs_atlas/MapServer/5/query",
+"Payloads":{"f":"json","returnGeometry":"true","spatialRel":"esriSpatialRelIntersects","geometry":"{'xmin':1000000.54458804,'ymin':3700000.372973837,'xmax':28897270.578516003,'ymax':9884866.406901802,'spatialReference':{'wkid':102100}}","geometryType":"esriGeometryEnvelope","inSR":"102100","outFields":"*","outSR":"102100"},
+"Data":{},
+"Headers":
+{
+"Host":"geo.govrb.ru",
+"Connection":"keep-alive",
+"Accept":"*/*",
+"X-Requested-With": "XMLHttpRequest",
+"Content-Type": "application/x-www-form-urlencoded",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+"Referer":"http://geo.govrb.ru/nacproject.html",
+"Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+"Cookie":"",
+"Accept-Encoding":"gzip, deflate"
+}
+},
+"Home_req":
+{
+"Request":"get",
+"Url":"http://geo.govrb.ru/nacproject.html",
+"Payloads":{},
+"Data":{},
+"Headers":
+{
+"Host":"geo.govrb.ru",
+"Connection":"keep-alive",
+"Accept":"*/*",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+"Referer":"https://yandex.ru/clck/jsredir?bu=5jsd34&from=yandex.ru%3Bsearch%2F%3Bweb%3B%3B&text=&etext=2202.On-3zy2EqxmgoJYQDCAQFEoH_IzbrazpFR7HmyFiwSJ2cml1cnNscWx3YW1va3Vi.0107cd2298dfb682fc1205c2bde0d813a849ac74&uuid=&state=jLT9ScZ_wbo,&&cst=AiuY0DBWFJ5Hyx_fyvalFKOYqGhG991nNlf2r_yk0tx2wnVBuYiLS_18zNQ1l9JF9QR8jDL031EfJhcmFOMgWpoNp-VYh5-63ntb1YAU-Lr2DwcSkLiRcAzpBq5Pkehb_TNuLgo6L4QPr6gOTYBpwIa2WdsXx2iq5IGW1FKktzfx_NVvFV29Dim60n0BDi6H6BMbjNpmrxnaqtKVsNhL8d1FKQijNbV1w-8HhrM9NDfPI34_F4-yZ5DV7MWLAceHdHkFM5O5Y4NDDmMdu5m9lUDWCMlEdzAhjIzxzJ-cszQKdhuH3fXxBYWuvV_mQ8q9HCaXpCfKZwmhwIjrr9kqzYxMXSy6QRMt57vxx6AVbUyly1JxglrLLCHdpQzY951NOqcggS1QPhbKS37bIQB_e5MizE04YgNjnWQl5K3HvNznWlyrlBYOWXVqPwztmR6lhccVD8qhiL3fvDSce2iUr77QbaElwBtesXY8bXfmRnBqVrfm22fXjZhJYPphhwjWU03S-HUOYvDWQ57U1jz92eUPoygSjbG3XAUBlGwSgk5Xrakr2GQEItUqyBKLa7hLEn-1RJ3ZHmOqJfOyFCzGbsQW3LSMsNtmJHf9qMfXEPFGGETgdT2T2Yes3DSnmRmalAfIa7Nq9jfaehHApXzfcdjiDVRQ-8FAWLiNoy9VDP8h_BZWWEhNF-JwtyvWnGIpx_Xv9DVTmb3Y7-gRa-8eVPKmXuakJooo_dToqMRK1LEaknpj8hEtfh_NyqEM_fbH4F2gkctyX8QWB0SxaiLoXkhrlo-k8FMHbjWsaJY8mXppPXfXPcjuQUSXRc5GB6QYPyRgtLTm6w6Svue91UL0I76vyzYTMZYN&data=UlNrNmk5WktYejY4cHFySjRXSWhXQW5pOGVRYnpiMlVSTm9qNVBuaW1LbUpERG5NRHJnYnNIV01obFdFNGpWZW5HNGFWLW0wekZyTGlvcFJiaUlrYmxWTmF5S0NhUE5X&sign=f5ca3c793d4af29e537f7982e94b6a40&keyno=0&b64e=2&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kpVBUyA8nmgRG-Q-7ygZzdWHDgy2NN0MRPjXBFD1mCeJjHHbk3jbdz_HRbanUGpiQj9sucOzJnsFWlIuYpHI3lkg,,&l10n=ru&rp=1&cts=1584378664871%40%40events%3D%5B%7B%22event%22%3A%22click%22%2C%22id%22%3A%225jsd34%22%2C%22cts%22%3A1584378664871%2C%22fast%22%3A%7B%22organic%22%3A1%7D%2C%22service%22%3A%22web%22%2C%22event-id%22%3A%22k7uq5dwn3v%22%7D%5D&mc=2&hdtime=10839.745",
+"Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+"Cookie":"",
+"Accept-Encoding":"gzip, deflate"
+}
+}
+}
