@@ -122,22 +122,3 @@ safe_last_fids("lastfids.txt",last_fids)
 print(sum)
 # prinение базы 5
 
-
-
-
-'''
-  district_name = ""
-  namename_list = data["attributes"]["name"].split()
-  x = data["attributes"].get("Lon")
-  y = data["attributes"].get("Lat")
-  for part in namename_list[0:-3]:
-    district_name+= part + " "
-  amount_infected = int(namename_list[-2:-1][0])
-  data_for_base = (district_name, amount_infected, x, y)
-  print(data_for_base)
-  if check(district_name) == True:
-    #cursor.execute('UPDATE infected SET amount = {} , x = {} , y = {} WHERE district = "{}"'.format(amount_infected,x,y,district_name.strip()))
-  else:
-    #cursor.execute(add_data_table2, data_for_base)
-  #cnx.commit()
-'''
